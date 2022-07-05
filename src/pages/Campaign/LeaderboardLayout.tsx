@@ -13,7 +13,7 @@ import Gold from 'assets/svg/gold_icon.svg'
 import Silver from 'assets/svg/silver_icon.svg'
 import Bronze from 'assets/svg/bronze_icon.svg'
 import Pagination from 'components/Pagination'
-import { CAMPAIGN_ITEM_PER_PAGE } from 'constants/index'
+import { LEADERBOARD_ITEM_PER_PAGE } from 'constants/index'
 import { useSelector } from 'react-redux'
 import { AppState } from 'state'
 import {
@@ -214,7 +214,7 @@ export default function LeaderboardLayout({ refreshIn }: { refreshIn: number }) 
           selectedCampaignLeaderboard ? (searchValue ? 1 : selectedCampaignLeaderboard.numberOfParticipants) : 0
         }
         currentPage={currentPage + 1}
-        pageSize={CAMPAIGN_ITEM_PER_PAGE}
+        pageSize={LEADERBOARD_ITEM_PER_PAGE}
         style={{ padding: '0' }}
       />
     </LeaderboardContainer>
