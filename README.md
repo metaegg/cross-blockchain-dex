@@ -1,14 +1,9 @@
-# KyberSwap Interface
+# Cross blockchain DEX
 
-An open source interface for KyberSwap -- a protocol for decentralized exchange.
+An open source interface for Cross blockchain DEX -- a protocol for decentralized exchange.
 Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-interface)
 
-- Website: [kyberswap.com](https://kyberswap.com/)
-- Whitepaper: [Link](https://files.kyber.network/DMM-Feb21.pdf)
 
-## Accessing the KyberSwap Interface
-
-To access the KyberSwap Interface, visit [kyberswap.com](https://kyberswap.com/)
 
 ## Development
 
