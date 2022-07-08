@@ -17,6 +17,14 @@
         },
         {
             "chainId": 56,
+            "address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
+            "symbol": "KNC",
+            "name": "Kyber Network Crystal",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/KyberNetwork/dmm-interface/main/src/assets/images/KNC.svg"
+        },
+        {
+            "chainId": 56,
             "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
             "symbol": "ETH",
             "name": "Ether",
