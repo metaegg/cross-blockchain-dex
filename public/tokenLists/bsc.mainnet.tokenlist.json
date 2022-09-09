@@ -9,8 +9,8 @@
     "tokens": [
         {
             "chainId": 56,
-            "address": "0x39Af062b155978f1D41B299601DeFac54E94Cbd8",
-            "symbol": "MEGG",
+            "address": "0x0475AE77fb55005F15554642d6016c75FD04227A",
+            "symbol": "MDEFI",
             "name": "Metaegg DeFi",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/metaegg/cross-blockchain-dex/main/public/metaegg.png"
